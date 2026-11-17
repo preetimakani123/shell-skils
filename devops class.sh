@@ -1,0 +1,1 @@
+DevOps is a modern approach in software development that combines Development (Dev) and Operations (Ops) teams to work collaboratively throughout the software lifecycle. It emphasizes automation, communication, and integration to deliver software faster, more reliably, and with fewer errors.
